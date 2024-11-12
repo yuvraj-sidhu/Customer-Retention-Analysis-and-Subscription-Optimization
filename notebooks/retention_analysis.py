@@ -1,4 +1,4 @@
-# Retention_Analysis.ipynb
+# Retention_Analysis
 
 # Import necessary libraries
 import pandas as pd
